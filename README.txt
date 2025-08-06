@@ -6,7 +6,7 @@ Este é um projeto de **agenda de contatos**, desenvolvido em Java (Eclipse IDE)
 
 ## 🧰 Tecnologias Utilizadas
 
-- **Java** (JDK 8 ou superior)
+- **Java** (JDK 8)
 - **MySQL** (Workbench)
 - **JDBC** (Driver mysql-connector-java)
 - **Eclipse IDE**
