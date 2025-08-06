@@ -10,7 +10,7 @@ Este é um projeto de **agenda de contatos**, desenvolvido em Java (Eclipse IDE)
 - **MySQL** (Workbench)
 - **JDBC** (Driver mysql-connector-java)
 - **Eclipse IDE**
-- (Opcional) **Swing** ou **AWT** para interface gráfica
+
 
 ---
 
